@@ -1,0 +1,1 @@
+# hosted-widget-angular
